@@ -1,0 +1,22 @@
+{
+  "name": "new-portfolio",
+  "version": "1.0.0",
+  "description": "- Locate the file location - In terminal run *bundle init* - In the Gem File add gems that you want to use with *gem 'jekyll', '~> 4.3', '>= 4.3.1'* - Once Gems are added run *bundle install* - Once all that is done and ready use *bundle exec jekyll serve* (The server will run on port 4000) - Load up *http://localhost:4000/* to see all the changes being made",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bergan404/New-Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bergan404/New-Portfolio/issues"
+  },
+  "homepage": "https://github.com/Bergan404/New-Portfolio#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.10"
+  }
+}
