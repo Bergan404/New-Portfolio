@@ -20,6 +20,8 @@
 - Load up *http://localhost:4000/* to see all the changes being made
 
 # Using Scss With Jekyll
+- Docs "https://markdotto.com/2014/09/25/sass-and-jekyll/"
+
 - No need to download anything jekyll has a built in scss converter
 - Add *sass: sass_dir: _sass* to the config.yml file to specify that we are using scss
 - Make a directory called **_sass** with a file named *styles.scss*

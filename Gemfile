@@ -6,6 +6,7 @@ source "https://rubygems.org"
 gem 'jekyll', '~> 4.3', '>= 4.3.1'
 gem 'jekyll-browsersync', group: [:jekyll_plugins]
 gem 'webrick', '~> 1.7'
+gem 'guard-livereload', '~> 2.5', '>= 2.5.2'
 
 gem "minima", "~> 2.5"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
