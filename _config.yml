@@ -30,16 +30,19 @@ twitter_username: Null
 github_username:  Null
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-browsersync
 
 # Adding to use sass
 sass:
     sass_dir: _sass
     style: compressed
 
-    
+# This will open the url and live load the page
+open_url: true
+livereload: true
+port: 4000
 
 # Exclude from processing.
 # The following items will not be processed, by default.
